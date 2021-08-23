@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rockymountainbarberwholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rockymountainbarberwholesale.ca/collections/pomade.atom"/>
+  <title>Rocky Mountain Barber Wholesale Canada</title>
+  <updated>2019-06-25T13:34:17-04:00</updated>
+  <author>
+    <name>Rocky Mountain Barber Wholesale Canada</name>
+  </author>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+    <published>2019-06-25T13:34:17-04:00</published>
+    <updated>2019-06-25T13:34:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/mens-hair-pomade-wholesale"/>
+    <title>Hair Pomade | 5 oz</title>
+    <s:type>Styling Product</s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/Pomade-Main-2018_d5a65c1c-41cb-4b90-98c5-341afd0f4789.jpg?v=1563988065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong>Styling Product<br>
+        <strong>Price: </strong>
+            111.40 - 2206.00
+            <a href="https://rockymountainbarberwholesale.ca/products/mens-hair-pomade-wholesale">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="Pomade" src="//cdn.shopify.com/s/files/1/1790/8153/files/Pomade-2.gif?v=1541815793"></p>
+<p><span>Your clients will never look as good as the moment they leave the barbershop. There's nothing worse than getting a great haircut, only to have difficulty recreating the same look day in and day out afterword. With high-shine, a firm hold, and a natural scent, our water-based Pomade will give your clients barber-grade performance at home. MSRP: $21.99.</span></p>
+<p><em><strong>﻿Features: Beeswax.</strong></em></p>
+<h6>OVERVIEW</h6>
+<h4><b>No Grease, Washes Out Easy</b></h4>
+<p>No grease stains here. Oil-based pomades can be a nightmare to wash out and can damage hair by stripping them of their natural oils, and leave your clients' forehead and scalp prone to breakouts. Our premium water-based pomade can be washed out easily, won't damage hair and won't clog pores. </p>
+<h4><b>20% More Pomade, 100% More Style</b></h4>
+<p>Sometimes bigger is better. To give your clients maximum style flexibility, we knew we had to provide maximum size to experiment, refine and perfect their look - that's why we set out to create one of the largest sized pomades on the market.</p>
+<h4><b>Hold Hair in Place, Not Noses Hostage</b></h4>
+<p>We designed this pomade to have a light natural scent, that won't come off as overpowering. So whether it's the scent of your clients' cologne, body wash or beard balm they want as their anchor scent, this pomade won't get in the way.</p>
+<h4><b>Crafted in Small Batches</b></h4>
+<p>Proudly created in small-batches for the ultimate craft hairstyling experience. Each step of the production process is completed in house to ensure highest quality standards throughout the process. Smaller batches mean a fresh pomade for an even fresher style.</p>
+<h6>PRO-TIPS</h6>
+<ul>
+<li>
+<strong>DIRECTIONS FOR BARBERS:</strong><span> </span>For best results, apply to your clients' hair after a cut, while it's slightly damp. Begin by using your fingertip to scoop a dime-sized amount into the palm of your other hand. Add a splash of warm water, then rub your hands together vigorously for 10 seconds to smooth the <span data-mce-fragment="1">pomade</span>. Once<span> </span>pomade<span> </span>is smooth, apply and work into clients' hair until fully absorbed. Style or comb as desired.<br>
+</li>
+<li>
+<strong>AT-HOME DIRECTIONS FOR YOUR<span data-mce-fragment="1"> </span>CUSTOMERS:</strong><span> For best results, apply to slightly damp hair. Begin by using your fingertip to scoop a dime-sized amount into the palm of your other hand. Add a splash of warm water, then rub your hands together vigorously for 10 seconds to smooth the pomade. Once pomade is smooth, apply and work into hair until fully absorbed. Style or comb as desired.</span>
+</li>
+</ul>
+<ul></ul>
+<h6>SPECS</h6>
+<ul>
+<li>Dimensions: 8.0 cm x 8.0 cm x 3.5 cm</li>
+<li>Volume: 141 grams</li>
+</ul>
+<h6>INGREDIENTS</h6>
+<ul>
+<li>Water, Ceteareth 25, Beeswax, Glycerin, PEG 40, Propylene Glycol, Polysorbate, PVP K30, Phenoxyethanol, Fragrance.</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>default-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>10 Units ($11.14 Per Unit)</title>
+      <s:price currency="CAD">111.40</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>1750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>20 Units ($11.14 Per Unit)</title>
+      <s:price currency="CAD">222.80</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>30 Units ($11.14 Per Unit)</title>
+      <s:price currency="CAD">334.20</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>5250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>40 Units ($11.14 Per Unit)</title>
+      <s:price currency="CAD">445.60</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>50 Units ($11.14 Per Unit)</title>
+      <s:price currency="CAD">557.00</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>8750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>75 Units ($11.14 Per Unit)</title>
+      <s:price currency="CAD">835.50</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>13125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>100 Units ($11.03 Per Unit)</title>
+      <s:price currency="CAD">1103.00</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>150 Units ($11.03 Per Unit)</title>
+      <s:price currency="CAD">1654.50</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>26250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195835322464</id>
+      <title>200 Units ($11.03 Per Unit)</title>
+      <s:price currency="CAD">2206.00</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>35000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2190647263328</id>
+    <published>2019-06-21T12:59:37-04:00</published>
+    <updated>2019-06-21T12:59:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/mens-hair-pomade"/>
+    <title>Hair Pomade | 5 oz</title>
+    <s:type>Styling Product</s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/Pomade-Main-2018.jpg?v=1563988041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong>Styling Product<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img alt="Pomade" src="//cdn.shopify.com/s/files/1/1790/8153/files/Pomade-2.gif?v=1541815793"></p>
+<p>Your clients will never look as good as the moment they leave the barbershop. There's nothing worse than getting a great haircut, only to have difficulty recreating the same look day in and day out afterword. With high-shine, a firm hold, and a natural scent, our water-based Pomade will give your clients barber-grade performance at home.</p>
+<p><em><strong>Features: Beeswax.</strong></em></p>
+<hr>
+<h5 style="text-align: center;">
+<strong>Sold in the following quantities:</strong><br>10, 20, 30, 40, 50, 75, 100, 150, 200 units</h5>
+<h6>OVERVIEW</h6>
+<h4><b>No Grease, Washes Out Easy</b></h4>
+<p>No grease stains here. Oil-based pomades can be a nightmare to wash out and can damage hair by stripping them of their natural oils, and leave your clients' forehead and scalp prone to breakouts. Our premium water-based pomade can be washed out easily, won't damage hair and won't clog pores. </p>
+<h4><b>20% More Pomade, 100% More Style</b></h4>
+<p>Sometimes bigger is better. To give your clients maximum style flexibility, we knew we had to provide maximum size to experiment, refine and perfect their look - that's why we set out to create one of the largest sized pomades on the market.</p>
+<h4><b>Hold Hair in Place, Not Noses Hostage</b></h4>
+<p>We designed this pomade to have a light natural scent, that won't come off as overpowering. So whether it's the scent of your clients' cologne, body wash or beard balm they want as their anchor scent, this pomade won't get in the way.</p>
+<b></b><span></span>
+<h4><b>Crafted in Small Batches</b></h4>
+<p>Proudly created in small-batches for the ultimate craft hairstyling experience. Each step of the production process is completed in house to ensure highest quality standards throughout the process. Smaller batches mean a fresh pomade for an even fresher style.</p>
+<h6>PRO-TIPS</h6>
+<ul>
+<li>
+<strong>DIRECTIONS FOR BARBERS:</strong><span> </span>For best results, apply to your clients' hair after a cut, while it's slightly damp. Begin by using your fingertip to scoop a dime-sized amount into the palm of your other hand. Add a splash of warm water, then rub your hands together vigorously for 10 seconds to smooth the pomade. Once pomade is smooth, apply and work into clients' hair until fully absorbed. Style or comb as desired.<br>
+</li>
+<li>
+<strong>AT-HOME DIRECTIONS FOR YOUR<span data-mce-fragment="1"> </span>CUSTOMERS:</strong><span> For best results, apply to slightly damp hair. Begin by using your fingertip to scoop a dime-sized amount into the palm of your other hand. Add a splash of warm water, then rub your hands together vigorously for 10 seconds to smooth the pomade. Once pomade is smooth, apply and work into hair until fully absorbed. Style or comb as desired.</span>
+</li>
+</ul>
+<h6>SPECS</h6>
+<ul>
+<li>Dimensions: 8.0 cm x 8.0 cm x 3.5 cm</li>
+<li>Volume: 141 grams</li>
+</ul>
+<h6>INGREDIENTS</h6>
+<ul>
+<li>Water, Ceteareth 25, Beeswax, Glycerin, PEG 40, Propylene Glycol, Polysorbate, PVP K30, Phenoxyethanol, Fragrance.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2190647263328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>P-01</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

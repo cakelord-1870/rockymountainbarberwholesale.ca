@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rockymountainbarberwholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rockymountainbarberwholesale.ca/collections/pop-displays-trays.atom"/>
+  <title>Rocky Mountain Barber Wholesale Canada</title>
+  <updated>2019-07-11T14:05:05-04:00</updated>
+  <author>
+    <name>Rocky Mountain Barber Wholesale Canada</name>
+  </author>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2220717768800</id>
+    <published>2019-07-11T14:05:05-04:00</published>
+    <updated>2019-07-11T14:05:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/countertop-pop-display-design-c-1"/>
+    <title>Countertop POP Display - Design C (Forest)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/c_30c019ee-2e56-415a-8fa9-df2319c5c783.png?v=1562868306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing display makes the perfect addition to any shelf, countertop or endcap. </em></strong></span></p>
+<p><span>Dimensions: 25 cm (H) x 30 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0091/1913/7888/files/POP_Display_Assembly_Instructions.pdf?2093">Download Assembly Instructions (PDF)</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>default-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2220717768800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>POP-WHOLESALE-2-C</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2220716130400</id>
+    <published>2019-07-11T14:03:32-04:00</published>
+    <updated>2019-07-11T14:03:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/countertop-pop-display-design-b-1"/>
+    <title>Countertop POP Display - Design B (Explorer)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/b_3bf013f5-f19c-4d34-b121-3fd3a5912ab7.png?v=1562868213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing display makes the perfect addition to any shelf, countertop or endcap. </em></strong></span></p>
+<p><span>Dimensions: 25 cm (H) x 30 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p>
+<p><span>﻿<a href="https://cdn.shopify.com/s/files/1/0091/1913/7888/files/POP_Display_Assembly_Instructions.pdf?2093">Download Assembly Instructions (PDF)</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>default-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2220716130400</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>POP-WHOLESALE-2-B</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2220715016288</id>
+    <published>2019-07-11T14:02:08-04:00</published>
+    <updated>2019-07-11T14:02:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/countertop-pop-display-design-a-1"/>
+    <title>Countertop POP Display - Design A (Bearded Man)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/a_6adbb746-aa2b-48eb-a4f4-1e179f711aed.png?v=1562868129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing display makes the perfect addition to any shelf, countertop or endcap. </em></strong></span></p>
+<p><span>Dimensions: 25 cm (H) x 30 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p>
+<p><span>﻿<a href="https://cdn.shopify.com/s/files/1/0091/1913/7888/files/POP_Display_Assembly_Instructions.pdf?2093">Download Assembly Instructions (PDF)</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>default-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2220715016288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>POP-WHOLESALE-2-A</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2211170877536</id>
+    <published>2019-07-05T11:17:47-04:00</published>
+    <updated>2019-07-05T11:17:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/countertop-pop-display-design-c"/>
+    <title>Countertop POP Display - Design C (Forest)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/c_6738fca8-49c6-489e-8a98-3b8ca527894d.png?v=1562339931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing display makes the perfect addition to any shelf, countertop or endcap. </em></strong></span></p>
+<p><span>Dimensions: 25 cm (H) x 30 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p>
+<p><span>﻿<a href="https://cdn.shopify.com/s/files/1/0091/1913/7888/files/POP_Display_Assembly_Instructions.pdf?2093">Download Assembly Instructions (PDF)</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2211170877536</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>POP-WHOLESALE-2-C</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2211169599584</id>
+    <published>2019-07-05T11:16:39-04:00</published>
+    <updated>2019-07-05T11:16:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/countertop-pop-display-design-b"/>
+    <title>Countertop POP Display - Design B (Explorer)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/b_d8e6793e-d353-445a-b79c-69f8dd3f51bc.png?v=1562339852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing display makes the perfect addition to any shelf, countertop or endcap. </em></strong></span></p>
+<p><span>Dimensions: 25 cm (H) x 30 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p>
+<p><span>﻿<a href="https://cdn.shopify.com/s/files/1/0091/1913/7888/files/POP_Display_Assembly_Instructions.pdf?2093">Download Assembly Instructions (PDF)</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2211169599584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>POP-WHOLESALE-2-B</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2211168059488</id>
+    <published>2019-07-05T11:11:27-04:00</published>
+    <updated>2019-07-05T11:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/countertop-pop-display-design-a"/>
+    <title>Countertop POP Display - Design A (Bearded Man)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/a_2253050b-eb23-4d94-b939-657e341cb681.png?v=1562339641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing display makes the perfect addition to any shelf, countertop or endcap. </em></strong></span></p>
+<p><span>Dimensions: 25 cm (H) x 30 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p>
+<p><span>﻿<a href="https://cdn.shopify.com/s/files/1/0091/1913/7888/files/POP_Display_Assembly_Instructions.pdf?2093">Download Assembly Instructions (PDF)</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2211168059488</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>POP-WHOLESALE-2-A</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2195837419616</id>
+    <published>2019-06-25T13:35:00-04:00</published>
+    <updated>2019-06-25T13:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/texture-paste-tray-empty-wholesale"/>
+    <title>Texture Paste Tray (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/tray3_cd47991d-61d7-4ba5-87d0-d469a33d716f.png?v=1563992622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing tray makes the perfect addition to any shelf, countertop or endcap. Fits 10 Rocky Mountain Barber Texture Pastes.</em></strong></span></p>
+<p><span>Dimensions: 8 cm (H) x 7.5 cm (W) x 29 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination (Black &amp; White)</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>default-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195837419616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>TRAY-TP-01</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2195836698720</id>
+    <published>2019-06-25T13:34:45-04:00</published>
+    <updated>2019-06-25T13:34:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/pomade-tray-empty-wholesale"/>
+    <title>Pomade Tray (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/tray2_d744ba81-3805-4849-a189-dac47af729d8.png?v=1563992499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing tray makes the perfect addition to any shelf, countertop or endcap. Fits 6 Rocky Mountain Barber Pomades.</em></strong></span></p>
+<p><span>Dimensions: 9.5 cm (H) x 9 cm (W) x 24.5 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination (Black &amp; White)</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>default-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195836698720</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>TRAY-P-01-SHC-01</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2195831619680</id>
+    <published>2019-06-25T13:33:37-04:00</published>
+    <updated>2019-06-25T13:33:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/small-tray-empty-wholesale"/>
+    <title>Beard Oil, Balm &amp; All-In-One Wash Tray (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/tray_3b123aa0-61cd-40bd-aa77-0b82679667fb.png?v=1563992166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing tray makes the perfect addition to any shelf, countertop or endcap. Fits the following items:</em></strong></span></p>
+<ul>
+<li>10 Rocky Mountain Barber Beard Balms</li>
+<li>12 Rocky Mountain Barber Beard Oils</li>
+<li>3 Rocky Mountain Barber All-In-One Washes</li>
+</ul>
+<p><span>Dimensions: 7.5 cm (H) x 7 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination (Black &amp; White)</span></p>
+<p><span><em>Note: Ships flat. Some assembly required</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>default-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195831619680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>TRAY-BEARD-BALM</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2195692355680</id>
+    <published>2019-06-25T12:09:58-04:00</published>
+    <updated>2019-06-25T12:09:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/texture-paste-tray-empty"/>
+    <title>Texture Paste Tray (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/tray3.png?v=1563992606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing tray makes the perfect addition to any shelf, countertop or endcap. Fits 10 Rocky Mountain Barber Texture Pastes.</em></strong></span></p>
+<p><span>Dimensions: 8 cm (H) x 7.5 cm (W) x 29 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination (Black &amp; White)</span></p>
+<p><span><em>Note: Ships flat. Some assembly required.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2195692355680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>TRAY-TP-01</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2188563218528</id>
+    <published>2019-06-20T12:41:00-04:00</published>
+    <updated>2019-06-20T12:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/pomade-tray-empty"/>
+    <title>Pomade Tray (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/tray2.png?v=1563992482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing tray makes the perfect addition to any shelf, countertop or endcap. Fits 6 Rocky Mountain Barber Pomades.</em></strong></span></p>
+<p><span>Dimensions: 9.5 cm (H) x 9 cm (W) x 24.5 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination (Black &amp; White)</span></p>
+<p><em>Note: Ships flat. Some assembly required.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2188563218528</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>TRAY-P-01-SHC-01</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rockymountainbarberwholesale.ca/products/2186436608096</id>
+    <published>2019-06-19T13:05:46-04:00</published>
+    <updated>2019-06-19T13:05:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rockymountainbarberwholesale.ca/products/small-tray-empty"/>
+    <title>Beard Oil, Balm &amp; All-In-One Wash Tray (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Rocky Mountain Barber Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0091/1913/7888/products/tray.png?v=1563992147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rocky Mountain Barber Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong><em>This easy-to-assemble and visually-appealing tray makes the perfect addition to any shelf, countertop or endcap. Fits the following items:</em></strong></span></p>
+<ul>
+<li>10 Rocky Mountain Barber Beard Balms</li>
+<li>12 Rocky Mountain Barber Beard Oils</li>
+<li>3 Rocky Mountain Barber All-In-One Washes</li>
+</ul>
+<p><span>Dimensions: 7.5 cm (H) x 7 cm (W) x 21 cm (D)</span></p>
+<p><span>Material: Strong Corrugated Cardboard</span></p>
+<p><span>Finish: Gloss Lamination (Black &amp; White)</span></p>
+<p><em>Note: Ships flat. Some assembly required</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale-HIDE</s:tag>
+    <s:variant>
+      <id>https://rockymountainbarberwholesale.ca/products/2186436608096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>TRAY-BEARD-BALM</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+</feed>
